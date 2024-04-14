@@ -14,13 +14,16 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: hwinareun's Blog # the main title
+# 제목
+title: Hwinareun # the main title
 
-tagline: i'm tired # it will display as the sub-title
+# 소제목
+tagline: 피곤하네요.. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  공부용 블로그
+  Hwinareun's blog.
 
+# 블로그 주소
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://hwinareun.github.io"
@@ -83,7 +86,7 @@ pageviews:
 #
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
-#
+#     블로그 테마모드
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
@@ -94,7 +97,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/profile01.png"
+avatar: /assets/img/profile01.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -143,7 +146,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 5
 
 # The base URL of your site
 baseurl: ""
