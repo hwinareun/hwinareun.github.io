@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 title: Hwinareun # the main title
 
 # 소제목
-tagline: 피곤하네요.. # it will display as the sub-title
+tagline: 잃어버린 꿈, 어디 어느 방에 두고 왔나요 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Hwinareun's blog.
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile01.png
+avatar: /assets/img/icon.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
