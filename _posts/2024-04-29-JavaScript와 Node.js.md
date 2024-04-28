@@ -23,7 +23,9 @@ node.js
 
 - `node -v`: node.js 버전 확인.<br>
 - `node`: node 실행. 자바스크립트 코드를 입력하여 <br> 코드를 수행할 수 있는 환경(REFL(Read Eval Print Loop))이 됨.
-
+  ```
+  node test.js // node로 test.js 코드 실행.
+  ```
 
 ### npm(node package manager)
 : node.js 기반에서 개발된 오픈 소스를 모듈로 올려놓은 일종의 앱스토어 같은 저장소.
@@ -34,10 +36,3 @@ e.g., express 같은 모듈을 사용하고 싶다면 아래 명령어로 다운
 ```
 npm install express
 ```
-
-
-
-
-
-
-
