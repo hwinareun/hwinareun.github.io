@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 title: 휘나른 # the main title
 
 # 소제목
-tagline: 잃어버린 꿈, 어디 어느 방에 두고 왔나요 # it will display as the sub-title
+tagline: [hwi-coding](https://github.com/hwinareun/hwi-coding) # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Hwinareun's blog.
